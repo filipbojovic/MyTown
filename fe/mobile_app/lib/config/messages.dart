@@ -1,0 +1,1 @@
+String reportMessage = "Prijava je uspešno poslata, hvala Vam na izdvojenom vremenu.";
